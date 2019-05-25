@@ -1,11 +1,13 @@
+# Spider51  
+
 https://www.cnblogs.com/powerzzjcode/p/10922261.html  
 
 Maven Project  
 
-Ê¹ÓÃhttpclient 3.1ÒÔ¼°jsoup1.8.3  
+ä½¿ç”¨httpclient 3.1ä»¥åŠjsoup1.8.3  
 
-MySQL£º51jobÊı¾İ¿â£¬jobInfo±í
+MySQLï¼š51jobæ•°æ®åº“ï¼ŒjobInfoè¡¨
 
-mysql-connect-java 8.0.13ÓÃÀ´½«Êı¾İµ¼ÈëÊı¾İ¿â£¬Ö§³Ömysql8.0+
+mysql-connect-java 8.0.13ç”¨æ¥å°†æ•°æ®å¯¼å…¥æ•°æ®åº“  
 
-·ÖÎöÊ¹ÓÃ£¬tablesaw£¨¿ÉÑ¡£©
+åˆ†æä½¿ç”¨ï¼Œtablesawï¼ˆå¯é€‰ï¼‰
